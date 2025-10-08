@@ -15,9 +15,9 @@
 
 ###
 
-![Git](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
-![WordPress](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
-![Unity](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
+![Git]()
+![WordPress]()
+![Unity]()
 
 <h3 align="left">Bases de Datos</h3>
 
