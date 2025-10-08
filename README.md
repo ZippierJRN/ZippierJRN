@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ZippierJRN/ZippierJRN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Lenguajes</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=c%23&logoColor=purple)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
